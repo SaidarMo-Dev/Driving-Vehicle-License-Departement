@@ -34,7 +34,7 @@ For those who do not pass, retake options are available for each test type.
 
 
 
-## Tech Stack: .NetFramework C#, ADO.NET, Microsoft SQL Server
+### Tech Stack: .NetFramework C#, ADO.NET, Microsoft SQL Server
 
 ### Installation
 
