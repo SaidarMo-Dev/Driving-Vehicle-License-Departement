@@ -9,11 +9,13 @@ solution designed to streamline the management of driving license services,
 including issuance, renewal, detention, and replacement.
 It enables efficient processing of licenses by supporting various key services such as:
 
--License Issuance: Facilitates the issuance of new driving licenses after applicants pass the required tests.
--License Renewal: Allows for the easy renewal of expiring licenses.
--License Detention and Release: Manages the detention and conditional release of licenses.
-- License Replacement: Provides options for replacing lost or damaged licenses.
-- Testing Requirements:
+
+
+ - License Issuance: Facilitates the issuance of new driving licenses after applicants pass the required tests.
+ - License Renewal: Allows for the easy renewal of expiring licenses.
+ -License Detention and Release: Manages the detention and conditional release of licenses.
+ - License Replacement: Provides options for replacing lost or damaged licenses.
+ - Testing Requirements:
    - Written Test: Evaluates knowledge of road safety and traffic rules.
    - Vision Test: Verifies that applicants meet minimum vision standards.
    - Street Test: Assesses practical driving skills in real-world scenarios.
