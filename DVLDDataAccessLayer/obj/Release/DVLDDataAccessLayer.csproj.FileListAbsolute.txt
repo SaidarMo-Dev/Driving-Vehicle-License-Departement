@@ -1,0 +1,5 @@
+C:\visual projects\DVLDProject\DVLDDataAccessLayer\bin\Release\DVLDDataAccessLayer.exe.config
+C:\visual projects\DVLDProject\DVLDDataAccessLayer\bin\Release\DVLDDataAccessLayer.exe
+C:\visual projects\DVLDProject\DVLDDataAccessLayer\bin\Release\DVLDDataAccessLayer.pdb
+C:\visual projects\DVLDProject\DVLDDataAccessLayer\obj\Release\DVLDDataAccessLayer.exe
+C:\visual projects\DVLDProject\DVLDDataAccessLayer\obj\Release\DVLDDataAccessLayer.pdb

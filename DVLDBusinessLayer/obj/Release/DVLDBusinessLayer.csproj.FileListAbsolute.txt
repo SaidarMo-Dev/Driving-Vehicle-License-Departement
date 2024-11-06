@@ -1,0 +1,8 @@
+C:\visual projects\DVLDProject\DVLDBusinessLayer\bin\Release\DVLDBusinessLayer.exe.config
+C:\visual projects\DVLDProject\DVLDBusinessLayer\bin\Release\DVLDBusinessLayer.exe
+C:\visual projects\DVLDProject\DVLDBusinessLayer\bin\Release\DVLDBusinessLayer.pdb
+C:\visual projects\DVLDProject\DVLDBusinessLayer\bin\Release\DVLDDataAccessLayer.exe
+C:\visual projects\DVLDProject\DVLDBusinessLayer\bin\Release\DVLDDataAccessLayer.pdb
+C:\visual projects\DVLDProject\DVLDBusinessLayer\obj\Release\DVLDBusinessLayer.csprojResolveAssemblyReference.cache
+C:\visual projects\DVLDProject\DVLDBusinessLayer\obj\Release\DVLDBusinessLayer.exe
+C:\visual projects\DVLDProject\DVLDBusinessLayer\obj\Release\DVLDBusinessLayer.pdb
