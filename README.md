@@ -1,8 +1,8 @@
 
 
-# DVLD : Driving Vehicle License Departement
+## DVLD : Driving Vehicle License Departement
 
-## Description
+### Description
 
 The Driving Vehicle License Department (DVLD) system is a comprehensive
 solution designed to streamline the management of driving license services,
@@ -24,7 +24,7 @@ It enables efficient processing of licenses by supporting various key services s
 The DVLD system ensures that applicants complete all required tests to qualify for a license.
 For those who do not pass, retake options are available for each test type.
 
-## Features
+### Features
 - Comprehensive License Management: Issue, renew, detain, release, and replace for lost or damaged License.
 - Testing and Retake Process:
   - Written Test for road safety and regulations.
@@ -34,9 +34,9 @@ For those who do not pass, retake options are available for each test type.
 
 
 
-##Tech Stack: .NetFramework C#, ADO.NET, Microsoft SQL Server
+## Tech Stack: .NetFramework C#, ADO.NET, Microsoft SQL Server
 
-## Installation
+### Installation
 
 1. Clone this repository.
 2. Ensure you have .NET Framework and SQL Server installed.
